@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy David
 
-<!--
-**Todxas/Todxas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Apasionado/a por la tecnología, el aprendizaje constante y crear soluciones útiles.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y herramientas
+- Lenguajes: [JavaScript, Python y Java]
+- Bases de datos: [MySQL]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 En qué estoy trabajando
+- 🌱 Aprendiendo: [DAM]
+### 📫 Cómo contactarme
+- Email: [dalche2006@gmail.com]
+
+✨ *Siempre con ganas de aprender algo nuevo y escribir mejor código.*
